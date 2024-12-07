@@ -1,0 +1,39 @@
+/* Colores personalizados */
+header {
+    background-image: url('img/banner.jpg'); /* Imagen de fondo en el encabezado */
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+h1 {
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+footer {
+    background-color: #444;
+    color: #fff;
+}
+
+a.btn {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+/* Estilo para las descripciones de las imágenes */
+figure {
+    margin: 15px auto;
+    text-align: center;
+}
+
+figcaption {
+    color: #555;
+    font-style: italic;
+    margin-top: 10px;
+}
